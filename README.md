@@ -1,6 +1,6 @@
 # Sudoku Generator Program
 
-This program is divided into several parts.
+This program is divided into 2 parts.
 
 ## Part 1: Generation
 
